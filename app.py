@@ -1,19 +1,14 @@
 import streamlit as st
 import os
 
-# Title of the app
-st.title("Abhishek")
 
-# --- IMPORTANT CHANGE: Use relative path AND the new parameter ---
 
-# 1. Ensure 'FRESHERS PARTY.jpeg' is in the same folder as this Python script.
-image_filename = "FRESHERS PARTY.jpeg"
 
 import streamlit as st
 import os
 
 # Title of the app
-st.title("ABhishek")
+st.title("We look forward to seeing you at the FRESHERS PARTY! on 4th October")
 
 # --- IMPORTANT: Ensure the image file is in the same directory as this script ---
 image_filename = "FRESHERS PARTY.jpeg"
